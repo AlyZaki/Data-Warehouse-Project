@@ -36,4 +36,7 @@ We built a complete data warehouse to analyze historical sales data and generate
 - Ahmed Waleed  
 - Omar Bayoumi
 
-## Folder Structure
+
+## Resources
+Sample Database: [BikeStores Sample Database](https://github.com/sebsto/babelfish-demo/blob/main/sql/BikeStores%20Sample%20Database%20-%20create%20objects.sql)
+
